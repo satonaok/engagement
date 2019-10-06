@@ -6,7 +6,7 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
+2.6.3
 * System dependencies
 
 * Configuration
@@ -14,7 +14,7 @@ Things you may want to cover:
 * Database creation
 
 * Database initialization
-
+postgresql 10.8
 * How to run the test suite
 
 * Services (job queues, cache servers, search engines, etc.)
